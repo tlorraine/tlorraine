@@ -6,7 +6,7 @@
 
 <h4> <a href=“https://github.com/jrodri06/qutine”>Qutine</a> </h4> 
 
-  Together with my mob I created an application aimed at helping people in quarantine to create and maintaine a healthy daily routine. The project was build using     React, Redux, Socket.io, NodeJS, ExpressJS, JWT authentication and MongoDB.
+  Together with my mob I created an application aimed at helping people in quarantine to create and maintaine a healthy daily routine. The project was built using     React, Redux, Socket.io, NodeJS, ExpressJS, JWT authentication and MongoDB.
 
 <h4> <a href=“https://github.com/tlorraine/period-tracker”>MyCycles</a> </h4> 
   
